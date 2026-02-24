@@ -6,10 +6,10 @@
   <li>Managed the full SDLC, demonstrating proficiency in debugging, documentation, and version control.</li>
 </ul>
 
-<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Colossal%20Crisis%20Game">3D Models</a></h2>
+<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/3D%20Models">3D Models</a></h2>
 <ul>
-  <li>Created 3D Model of the Empire State Building.</li>
-  <li>Created 3D Model of a bank using similar modular pieces to ESB.</li>
+  <li>Created 3D model of the Empire State Building.</li>
+  <li>Created 3D model of a bank using similar modular pieces to ESB.</li>
   <li>Created high-quality texture for the bark of a palm tree.</li>
 </ul>
 
