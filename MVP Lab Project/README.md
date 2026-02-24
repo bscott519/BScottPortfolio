@@ -1,6 +1,6 @@
 Original GitHub: https://github.com/bscott519/MVPLabTableGame
 
-Animating Table in Blender
+Animating Table in Blender<br>
 <img width="512" height="265" alt="TableAnimating" src="https://github.com/user-attachments/assets/9b0d05e5-8ead-4699-bfc7-0fd61876c99f" />
 
 Table Model in Action with Tray
