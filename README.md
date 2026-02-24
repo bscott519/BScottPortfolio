@@ -6,6 +6,19 @@
   <li>Managed the full SDLC, demonstrating proficiency in debugging, documentation, and version control.</li>
 </ul>
 
+<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Colossal%20Crisis%20Game">3D Models</a></h2>
+<ul>
+  <li>Created 3D Model of the Empire State Building.</li>
+  <li>Created 3D Model of a bank using similar modular pieces to ESB.</li>
+  <li>Created high-quality texture for the bark of a palm tree.</li>
+</ul>
+
+<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Time%20to%20Get%20a%20Job%20Game">Time to Get a Job Game</a></h2>
+<ul>
+  <li>Built an interactive open-world medieval city level with player-interactable assets in Unreal Engine.</li>
+  <li>Utilized Blender for 3D modeling and Git for version control to ensure project stability.</li>
+</ul>
+
 <h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/MVP%20Lab%20Project">MVP Lab Project</a></h2>
 <ul>
   <li>Built VR research environments using Blender and Unity, resulting in more accurate studies and improved
@@ -25,16 +38,9 @@ by reducing user errors.</li>
   <li>Led Agile ceremonies and code reviews in 5-member team, ensuring maintainability and adherence to standards.</li>
 </ul>
 
-<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Time%20to%20Get%20a%20Job%20Game">Time to Get a Job Game</a></h2>
-<ul>
-  <li>Built an interactive open-world medieval city level with player-interactable assets in Unreal Engine.</li>
-  <li>Utilized Blender for 3D modeling and Git for version control to ensure project stability.</li>
-</ul>
-
 <h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Poltergeist%20Inn%20Game">Poltergeist Inn Game</a></h2>
 <ul>
   <li>Designed modular gameplay architecture in C#, applying scalable enterprise design patterns.</li>
   <li>Created custom artwork, enemy designs, and player mechanics for a 2D platformer shooter.</li>
-</li>
 </ul>
 
