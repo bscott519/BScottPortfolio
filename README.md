@@ -19,21 +19,22 @@ by reducing user errors.</li>
   <li>Designed multiple 3D levels and interactive dialogue systems for a detective-style narrative game.</li>
 </ul>
 
+<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Presence%20App">Presence App</a></h2>
+<ul>
+  <li>Developed responsive user interfaces for school attendance tracking system using React and TypeScript.</li>
+  <li>Led Agile ceremonies and code reviews in 5-member team, ensuring maintainability and adherence to standards.</li>
+</ul>
+
+<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Time%20to%20Get%20a%20Job%20Game">Time to Get a Job Game</a></h2>
+<ul>
+  <li>Built an interactive open-world medieval city level with player-interactable assets in Unreal Engine.</li>
+  <li>Utilized Blender for 3D modeling and Git for version control to ensure project stability.</li>
+</ul>
+
 <h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Poltergeist%20Inn%20Game">Poltergeist Inn Game</a></h2>
 <ul>
   <li>Designed modular gameplay architecture in C#, applying scalable enterprise design patterns.</li>
   <li>Created custom artwork, enemy designs, and player mechanics for a 2D platformer shooter.</li>
-</ul>
-
-<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Colossal%20Crisis%20Game">Colossal Crisis Game</a></h2>
-<ul>
-  <li>Developed a 2D hack-and-slash platformer with custom AI algorithms and physics-based enemy systems.</li>
-  <li>Managed the full SDLC, demonstrating proficiency in debugging, documentation, and version control.</li>
-</ul>
-
-<h2><a href="https://github.com/bscott519/BScottPortfolio/tree/main/Colossal%20Crisis%20Game">Colossal Crisis Game</a></h2>
-<ul>
-  <li>Developed a 2D hack-and-slash platformer with custom AI algorithms and physics-based enemy systems.</li>
-  <li>Managed the full SDLC, demonstrating proficiency in debugging, documentation, and version control.</li>
+</li>
 </ul>
 
