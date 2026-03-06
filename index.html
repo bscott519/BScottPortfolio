@@ -51,7 +51,32 @@
 
              <div class="col-md-6 col-lg-4">
                 <div class="card project-card h-100">
-                    <img src="YOUR_GIF_OR_IMAGE_LINK" class="card-img-top" alt="Project Demo">
+                    <div id="project1Carousel" class="carousel slide" data-bs-ride="carousel">
+                      <div class="carousel-inner">
+                        <div class="carousel-item active">
+                          <img src="images/MedievalWorld.png" class="d-block w-100" alt="World Image">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="images/MedievalLevelSketch.jpg" class="d-block w-100" alt="World Sketch">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="images/MedievalBossRoom.png" class="d-block w-100" alt="Castle Image">
+                        </div>
+                         <div class="carousel-item">
+                          <img src="images/MedievalBossRoomSketch.jpg" class="d-block w-100" alt="Castle Sketch">
+                        </div>
+                      </div>
+                    
+                      <button class="carousel-control-prev" type="button" data-bs-target="#project1Carousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button class="carousel-control-next" type="button" data-bs-target="#project1Carousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
+                    
                     <div class="card-body">
                         <h5 class="card-title text-white">Time to Get a Job</h5>
                         <p class="card-text text-secondary">Built an interactive open-world medieval city level with player-interactable assets in Unreal Engine. Utilized Blender for 3D modeling and Git for version control to ensure project stability.</p>
